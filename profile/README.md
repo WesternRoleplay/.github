@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/1336801449413185537/1362397182455578815/20250417_185940.png?ex=6804e1c0&is=68039040&hm=36882d6c95c84cac7cf954b6e29c19105423dde987b51fc12c8a8dd027ffd076&" alt="Western Roleplay Banner" />
 </p>
 
-<h1 align="center">🤠Western Roleplay</h1>
+<h1 align="center">Western Roleplay</h1>
 
 <p align="center">
   A Western-Themed SA-MP Roleplay Server with Unique, Immersive Systems.
